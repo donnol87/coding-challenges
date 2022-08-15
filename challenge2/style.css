@@ -92,3 +92,13 @@ h3{
 #cart{
     margin-left: 10px;
 }
+a{
+    color: aliceblue;
+    font-family: sans-serif;
+    margin-left: 18px;
+    text-decoration: none;
+    text-decoration: ;
+}
+a:hover {
+    color: black;
+  }
